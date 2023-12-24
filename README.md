@@ -3,6 +3,7 @@ create .env
 add your Telegram and MongoDB key
 
 BOT_TOKEN=
+
 MONGODB_URI=
 
 npm i
